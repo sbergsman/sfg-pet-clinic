@@ -8,6 +8,7 @@
     </parent>
 
     <artifactId>pet-clinic-data</artifactId>
+    <version>0.0.1</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
